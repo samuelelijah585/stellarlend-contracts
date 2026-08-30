@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1985-multisig-create-proposal-s-ttl-ledgers-is",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1985-multisig-create-proposal-s-ttl-ledgers-is": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1985-multisig-create-proposal-s-ttl-ledgers-is",
+    "origin"
+  ]
+}
